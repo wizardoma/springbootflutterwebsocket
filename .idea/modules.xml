@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/flutterclient/flutterclient.iml" filepath="$PROJECT_DIR$/flutterclient/flutterclient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/websocketspringboot/websocketspringboot.iml" filepath="$PROJECT_DIR$/websocketspringboot/websocketspringboot.iml" />
+    </modules>
+  </component>
+</project>
